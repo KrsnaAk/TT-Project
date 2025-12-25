@@ -1,4 +1,3 @@
-/* --- GLOBAL RESETS --- */
 * {
     margin: 0;
     padding: 0;
@@ -8,8 +7,8 @@
 }
 
 :root {
-    --primary-color: #d4af37; /* Gold */
-    --secondary-color: #1a1a1a; /* Dark Grey */
+    --primary-color: #d4af37; 
+    --secondary-color: #1a1a1a; 
     --text-color: #333;
     --light-bg: #f4f4f4;
     --white: #ffffff;
@@ -258,7 +257,7 @@ footer {
     margin-top: 0;
 }
 
-/* --- MEDIA QUERIES (RESPONSIVENESS) --- */
+/* --- MEDIA QUERIES RESPONSIVENESS --- */
 @media (max-width: 768px) {
     .header {
         padding: 15px 20px;
